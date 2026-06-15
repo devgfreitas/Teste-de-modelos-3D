@@ -9,4 +9,4 @@ This project serves as a personal workspace for creating and testing 3D models, 
 The goal is to improve my skills in 3D design while exploring new tools and techniques.
 
 ## 📷Preview
-<img src="previewmodels.png">
+<img src="previewwmodels.png">
